@@ -1,0 +1,454 @@
+title:My Wishlist
+
+// Joxer's Longsword - Joxer's Longsword (pvp)
+//notes: Stability MW tags:pvp
+dimwishlist:item=157601190&perks=839105230,1885400500,2450788523,2387244414
+
+
+// Crimil's Dagger - Crimil's Dagger (god-pvp)
+//notes: Range MW tags:god-pvp
+dimwishlist:item=198854575&perks=1840239774,3177308360,2039302152,3673922083
+
+
+// Tomorrow's Answer (Adept) - Tomorrow's Answer (Adept) (god-pve)
+//notes: Handling MW tags:god-pve
+dimwishlist:item=303107619&perks=3796465595,3987942396,3078487919
+
+
+// Tinasha's Mastery - Tinasha's Mastery (god-pve)
+//notes: Reload MW tags:god-pve
+dimwishlist:item=480368036&perks=1380253176,1421772400,2978966579,3989629871
+
+
+// Cold Denial - Cold Denial (god-pvp)
+//notes: Range MW tags:god-pvp
+dimwishlist:item=558794124&perks=839105230,1885400500,2387244414,460017080,1600429811
+
+
+// Qua Furor V - Qua Furor V (pve)
+//notes: tags:pve
+dimwishlist:item=751880654&perks=2420895100,3713215006,2848615171,1050127423
+
+
+// Vengeful Whisper - Vengeful Whisper (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=839344841&perks=2801223209,3827198035,1866048759,2416023159,220689851
+
+
+// Found Verdict (Timelost) - Found Verdict (pve,pvp)
+//notes: Range MW tags:pve,pvp
+dimwishlist:item=851296754&perks=1300023272,3142289711,4071163871,47981717
+dimwishlist:item=851296754&perks=1300023272,3142289711,4071163871,2360754333
+dimwishlist:item=851296754&perks=1300023272,3142289711,4071163871,2679249093
+dimwishlist:item=851296754&perks=1300023272,3142289711,3418782618,47981717
+dimwishlist:item=851296754&perks=1300023272,3142289711,3418782618,2360754333
+dimwishlist:item=851296754&perks=1300023272,3142289711,3418782618,2679249093
+dimwishlist:item=851296754&perks=1300023272,3142289711,3161816588,47981717
+dimwishlist:item=851296754&perks=1300023272,3142289711,3161816588,2360754333
+dimwishlist:item=851296754&perks=1300023272,3142289711,3161816588,2679249093
+dimwishlist:item=851296754&perks=1300023272,791862061,4071163871,47981717
+dimwishlist:item=851296754&perks=1300023272,791862061,4071163871,2360754333
+dimwishlist:item=851296754&perks=1300023272,791862061,4071163871,2679249093
+dimwishlist:item=851296754&perks=1300023272,791862061,3418782618,47981717
+dimwishlist:item=851296754&perks=1300023272,791862061,3418782618,2360754333
+dimwishlist:item=851296754&perks=1300023272,791862061,3418782618,2679249093
+dimwishlist:item=851296754&perks=1300023272,791862061,3161816588,47981717
+dimwishlist:item=851296754&perks=1300023272,791862061,3161816588,2360754333
+dimwishlist:item=851296754&perks=1300023272,791862061,3161816588,2679249093
+
+
+// Retold Tale - Retold Tale (god-pvp)
+//notes: Handling MW tags:god-pvp
+dimwishlist:item=871900124&perks=1300023272,3142289711,3161816588,957782887,930692523
+
+
+// Rose - Rose (god-pvp)
+//notes: Range MW tags:god-pvp
+dimwishlist:item=882778888&perks=1482024992,3142289711,3161816588,47981717,862848869
+dimwishlist:item=882778888&perks=1482024992,3142289711,3161816588,3038247973,862848869
+
+
+// Exalted Truth (Adept) - Exalted Truth (Adept) (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=1201528146&perks=1467527085,3142289711,3619207468,699525795,4008116374
+
+
+// Exalted Truth (Adept) - Exalted Truth (Adept) (god-pvp)
+//notes: Handling MW tags:god-pvp
+dimwishlist:item=1201528146&perks=1467527085,3142289711,3161816588,47981717
+
+
+// Perfect Paradox - Perfect Paradox (pve)
+//notes: Reload MW tags:pve
+dimwishlist:item=1298672084&perks=1300023272,2420895100,2869569095,2679249093,2838996248
+dimwishlist:item=1298672084&perks=1300023272,2420895100,2869569095,2360754333,2838996248
+dimwishlist:item=1298672084&perks=1300023272,2420895100,4071163871,2679249093,2838996248
+dimwishlist:item=1298672084&perks=1300023272,2420895100,4071163871,2360754333,2838996248
+
+
+// Unsworn - Unsworn (god-pve)
+//notes: Reload MW tags:god-pve
+dimwishlist:item=1303313141&perks=1483536627,3418782618,4198902903,1298135794
+
+
+// Watchful Eye (Adept) - Watchful Eye (Adept) (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=737409399&perks=3643424744,557221067
+dimwishlist:item=737409399&perks=3643424744,365154968
+dimwishlist:item=737409399&perks=2869569095,557221067
+dimwishlist:item=737409399&perks=2869569095,365154968
+
+
+// Watchful Eye (Adept) - Watchful Eye (Adept) (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=737409399&perks=3643424744,3966416502
+dimwishlist:item=737409399&perks=3643424744,3218042543
+dimwishlist:item=737409399&perks=2869569095,3966416502
+dimwishlist:item=737409399&perks=2869569095,3218042543
+
+
+// Watchful Eye (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=737409399&perks=3643424744,557221067
+dimwishlist:item=737409399&perks=3643424744,365154968
+dimwishlist:item=737409399&perks=2869569095,557221067
+dimwishlist:item=737409399&perks=2869569095,365154968
+
+
+// Watchful Eye (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=737409399&perks=3643424744,3966416502
+dimwishlist:item=737409399&perks=3643424744,3218042543
+dimwishlist:item=737409399&perks=2869569095,3966416502
+dimwishlist:item=737409399&perks=2869569095,3218042543
+
+
+// VS Velocity Baton - VS Velocity Baton (pve)
+//notes: Reload MW tags:pve
+dimwishlist:item=1762785663&perks=3523296417,243981275,4139916815
+
+
+// Hammerhead -  Hammerhead (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=1896309757&perks=839105230,2420895100,3425386926,557221067,2489430594
+
+
+// Deadlock - Deadlock (pvp)
+//notes: Range MW tags:pvp
+dimwishlist:item=2035738085&perks=1300023272,3142289711,1821614984,1194056669,1067908860
+dimwishlist:item=2035738085&perks=1300023272,3142289711,1821614984,47981717,1067908860
+dimwishlist:item=2035738085&perks=1300023272,3142289711,4071163871,1194056669,1067908860
+dimwishlist:item=2035738085&perks=1300023272,3142289711,4071163871,47981717,1067908860
+
+
+// Unworthy - Unworthy (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=2226158470&perks=839105230,1885400500,3619207468,555281244,1298135794
+
+
+// Corrective Measure (Timelost) - Corrective Measure (Timelost) (pvp,pve)
+//notes: NO Range MW tags:pvp,pve
+dimwishlist:item=2334480463&perks=2048641572,557221067,2589407652
+dimwishlist:item=2334480463&perks=2048641572,1464081238,2589407652
+dimwishlist:item=2334480463&perks=2048641572,2213355989,2589407652
+dimwishlist:item=2334480463&perks=3824105627,557221067,2589407652
+dimwishlist:item=2334480463&perks=3824105627,1464081238,2589407652
+dimwishlist:item=2334480463&perks=3824105627,2213355989,2589407652
+dimwishlist:item=2334480463&perks=3523296417,557221067,2589407652
+dimwishlist:item=2334480463&perks=3523296417,1464081238,2589407652
+dimwishlist:item=2334480463&perks=3523296417,2213355989,2589407652
+
+
+// Corrective Measure (Timelost) - Corrective Measure (god-pve,god-pvp)
+//notes: tags:god-pve,god-pvp
+dimwishlist:item=2334480463&perks=2048641572,557221067
+dimwishlist:item=2334480463&perks=2048641572,1464081238
+dimwishlist:item=2334480463&perks=2048641572,1089671869
+dimwishlist:item=2334480463&perks=3201496230,557221067
+dimwishlist:item=2334480463&perks=3201496230,1464081238
+dimwishlist:item=2334480463&perks=3201496230,1089671869
+dimwishlist:item=2334480463&perks=3824105627,557221067
+dimwishlist:item=2334480463&perks=3824105627,1464081238
+dimwishlist:item=2334480463&perks=3824105627,1089671869
+
+
+// Praedyth's Revenge (Timelost) - Praedyth's Revenge (pve)
+//notes: Reload MW tags:pve
+dimwishlist:item=2362652544&perks=3891536761,3078487919
+dimwishlist:item=2362652544&perks=3891536761,1089671869
+dimwishlist:item=2362652544&perks=3891536761,555281244
+dimwishlist:item=2362652544&perks=1354429876,3078487919
+dimwishlist:item=2362652544&perks=1354429876,1089671869
+dimwishlist:item=2362652544&perks=1354429876,555281244
+dimwishlist:item=2362652544&perks=3987942396,3078487919
+dimwishlist:item=2362652544&perks=3987942396,1089671869
+dimwishlist:item=2362652544&perks=3987942396,555281244
+
+
+// Elsie's Rifle - Elsie's Rifle (god-pvp)
+//notes: Range MW tags:god-pvp
+dimwishlist:item=2372514509&perks=839105230,1885400500,2387244414,460017080,2489430594
+dimwishlist:item=2372514509&perks=839105230,1885400500,3619207468,460017080,2489430594
+
+
+// Lotus-Eater (Adept) - Lotus-Eates ()
+//notes: Reload MW
+dimwishlist:item=2697143634&perks=776531651,2048641572
+dimwishlist:item=2697143634&perks=1523832109,2048641572
+
+
+// Ignition Code - Ignition Code (pve)
+//notes: tags:pve
+dimwishlist:item=2761869150&perks=3301904089,3161816588,1546637391,3404929162
+dimwishlist:item=2761869150&perks=3301904089,1556840489,1546637391,3404929162
+dimwishlist:item=2761869150&perks=3032599245,3161816588,1546637391,3404929162
+dimwishlist:item=2761869150&perks=3032599245,1556840489,1546637391,3404929162
+
+
+// Midnight Coup - Midnight Coup (pvp)
+//notes: Range MW tags:pvp
+dimwishlist:item=2763843898&perks=1482024992,3142289711,3038247973,47981717,2489430594
+
+
+// Luna's Howl - Luna's Howl (pvp)
+//notes: Range MW tags:pvp
+dimwishlist:item=2763843899&perks=1482024992,1885400500,3161816588,555281244,2489430594
+dimwishlist:item=2763843899&perks=3250034553,1885400500,3161816588,555281244,2489430594
+
+
+// Scavenger's Fate - Scavenger's Fate (pvp)
+//notes: Range MW tags:pvp
+dimwishlist:item=2913577176&perks=1300023272,3142289711,2579169598,1194056669,2041432007
+dimwishlist:item=2913577176&perks=1300023272,3142289711,3161816588,1194056669,2041432007
+
+
+// Judgment - Judgment (pvp)
+//notes: Range MW tags:pvp
+dimwishlist:item=2969415423&perks=1926090094,3142289711,3161816588,1954620775,4129855581
+dimwishlist:item=2969415423&perks=1926090094,3142289711,3161816588,47981717,4129855581
+dimwishlist:item=2969415423&perks=1926090094,3142289711,3161816588,699525795,4129855581
+dimwishlist:item=2969415423&perks=1926090094,3142289711,588594999,1954620775,4129855581
+dimwishlist:item=2969415423&perks=1926090094,3142289711,588594999,47981717,4129855581
+dimwishlist:item=2969415423&perks=1926090094,3142289711,588594999,699525795,4129855581
+dimwishlist:item=2969415423&perks=1926090095,3142289711,3161816588,1954620775,4129855581
+dimwishlist:item=2969415423&perks=1926090095,3142289711,3161816588,47981717,4129855581
+dimwishlist:item=2969415423&perks=1926090095,3142289711,3161816588,699525795,4129855581
+dimwishlist:item=2969415423&perks=1926090095,3142289711,588594999,1954620775,4129855581
+dimwishlist:item=2969415423&perks=1926090095,3142289711,588594999,47981717,4129855581
+dimwishlist:item=2969415423&perks=1926090095,3142289711,588594999,699525795,4129855581
+
+
+// PLUG ONE.1 (Adept) - PLUG ONE.1 (Adept) (pvp)
+//notes: Charge MW tags:pvp
+dimwishlist:item=3106557243&perks=839105230,1687452232,1645158859,1194056669
+
+
+// Redrix's Estoc - Redrix's Estoc (pvp)
+//notes: Range MW tags:pvp
+dimwishlist:item=3218364298&perks=839105230,3142289711,2387244414
+
+
+// Unvoiced - Unvoiced (pve)
+//notes: tags:pve
+dimwishlist:item=3360937899&perks=1840239774,791862061,3987942396,3078487919,1298135794
+dimwishlist:item=3360937899&perks=1840239774,791862061,1354429876,3078487919,1298135794
+
+
+// Indebted Kindness - Indebted Kindness (pve)
+//notes: Reload MW tags:pve
+dimwishlist:item=3381450498&perks=1556840489,2173046394,220689851
+
+
+// Keen Thistle (Adept) -  Keen Thistle (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=3503560035&perks=3400784728,1354429876
+dimwishlist:item=3503560035&perks=3400784728,3078487919
+dimwishlist:item=3503560035&perks=3987942396,1354429876
+dimwishlist:item=3503560035&perks=3987942396,3078487919
+
+
+// Hezen Vengeance (Timelost) - Hezen Vengeanc ()
+//notes: Handling MW
+dimwishlist:item=3623686757&perks=3643424744,1439600632
+dimwishlist:item=3623686757&perks=3643424744,1089671869
+dimwishlist:item=3623686757&perks=3643424744,3078487919
+dimwishlist:item=3623686757&perks=3300816228,1439600632
+dimwishlist:item=3623686757&perks=3300816228,1089671869
+dimwishlist:item=3623686757&perks=3300816228,3078487919
+dimwishlist:item=3623686757&perks=3987942396,1439600632
+dimwishlist:item=3623686757&perks=3987942396,1089671869
+dimwishlist:item=3623686757&perks=3987942396,3078487919
+
+
+// Admetus-D - Admetus-D (pvp)
+//notes: tags:pvp
+dimwishlist:item=3776430252&perks=839105230,1885400500,247725512,555281244,1607056502
+dimwishlist:item=3776430252&perks=839105230,1885400500,3619207468,555281244,1607056502
+
+
+// A Sudden Death - A Sudden Death (god-pvp)
+//notes: Handling MW tags:god-pvp
+dimwishlist:item=4097972038&perks=1300023272,3142289711,3511092054,47981717,4129855581
+
+
+// Fatebringer (Timelost) - Fatebringer (Timelost) ()
+//notes: Range MW
+dimwishlist:item=4219826183&perks=3619207468,699525795,2589407652
+dimwishlist:item=4219826183&perks=3619207468,3824105627,2589407652
+dimwishlist:item=4219826183&perks=3619207468,2720533289,2589407652
+dimwishlist:item=4219826183&perks=3891536761,699525795,2589407652
+dimwishlist:item=4219826183&perks=3891536761,3824105627,2589407652
+dimwishlist:item=4219826183&perks=3891536761,2720533289,2589407652
+dimwishlist:item=4219826183&perks=3038247973,699525795,2589407652
+dimwishlist:item=4219826183&perks=3038247973,3824105627,2589407652
+dimwishlist:item=4219826183&perks=3038247973,2720533289,2589407652
+
+
+// VS Pyroelectric Propellant - VS Pyroelectric Propellant (pve)
+//notes: tags:pve
+dimwishlist:item=4232480042&perks=243981275,3966416502,4139916815
+
+
+// Boondoggle Mk. 55 - Boondoggle Mk. 55 (pvp)
+//notes: Range MW tags:pvp
+dimwishlist:item=32287609&perks=3250034553,1885400500,1866048759,2416023159,2437618208
+
+
+// Warlord's Spear - Warlord's Spear (pve)
+//notes: Reload MW tags:pve
+dimwishlist:item=1968711238&perks=1483536627,3418782618,4198902903,3989629871
+
+
+// The Palindrome (Adept) - The Palindrome (god-pvp)
+//notes: Double Range tags:god-pvp
+dimwishlist:item=4077588826&perks=1482024992,3142289711,3038247973,3081867624
+dimwishlist:item=4077588826&perks=1482024992,3142289711,3511092054,3081867624
+dimwishlist:item=4077588826&perks=3250034553,3142289711,3038247973,3081867624
+dimwishlist:item=4077588826&perks=3250034553,3142289711,3511092054,3081867624
+
+
+// The Palindrome (Adept) -  The Palindrome (Adept) (god-pvp)
+//notes: Stability MW tags:god-pvp
+dimwishlist:item=4077588826&perks=1482024992,3142289711,3038247973,47981717,1050127423
+
+
+// Abyssal Edge -  Abyssal Edge (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=547165496&perks=269888150,2030760728,3201496230
+
+
+// Abyssal Edge (Adept) -  Abyssal Edge (Adept) (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=547165496&perks=269888150,2030760728,3201496230
+
+
+// Vision of Confluence (Timelost) - Vision of Confluence (pve,pvp)
+//notes: Reload MW tags:pve,pvp
+dimwishlist:item=337578911&perks=4293542123,3824105627
+dimwishlist:item=337578911&perks=4293542123,3038247973
+dimwishlist:item=337578911&perks=4293542123,1015611457
+dimwishlist:item=337578911&perks=2387244414,3824105627
+dimwishlist:item=337578911&perks=2387244414,3038247973
+dimwishlist:item=337578911&perks=2387244414,1015611457
+dimwishlist:item=337578911&perks=3017780555,3824105627
+dimwishlist:item=337578911&perks=3017780555,3038247973
+dimwishlist:item=337578911&perks=3017780555,1015611457
+
+
+// Cynosure - Cynosure (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=694275488&perks=3796465595,3987942396,1089671869
+dimwishlist:item=694275488&perks=3796465595,3987942396,1439600632
+dimwishlist:item=694275488&perks=3796465595,3987942396,3194351027
+dimwishlist:item=694275488&perks=3796465595,3643424744,1089671869
+dimwishlist:item=694275488&perks=3796465595,3643424744,1439600632
+dimwishlist:item=694275488&perks=3796465595,3643424744,3194351027
+dimwishlist:item=694275488&perks=3796465595,2869569095,1089671869
+dimwishlist:item=694275488&perks=3796465595,2869569095,1439600632
+dimwishlist:item=694275488&perks=3796465595,2869569095,3194351027
+
+
+// Temptation's Hook -  Temptation's Hook (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1587953057&perks=269888150,243981275,2396489472,1600429811
+
+
+// Wicked Sister - Wicked Sister (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2039776723&perks=3987942396,3194351027
+dimwishlist:item=2039776723&perks=3987942396,3078487919
+dimwishlist:item=2039776723&perks=3987942396,1546637391
+dimwishlist:item=2039776723&perks=2869569095,3194351027
+dimwishlist:item=2039776723&perks=2869569095,3078487919
+dimwishlist:item=2039776723&perks=2869569095,1546637391
+dimwishlist:item=2039776723&perks=3300816228,3194351027
+dimwishlist:item=2039776723&perks=3300816228,3078487919
+dimwishlist:item=2039776723&perks=3300816228,1546637391
+
+
+// Unloved - Unloved (pve)
+//notes: Reload MW tags:pve
+dimwishlist:item=2485881870&perks=2848615171,1089671869
+
+
+// Psychopomp (Adept) -  Psychopomp (Adept) (god-pve)
+//notes: Reload MW tags:god-pve
+dimwishlist:item=2553380021&perks=691659142,3523296417
+dimwishlist:item=2553380021&perks=691659142,3218042543
+dimwishlist:item=2553380021&perks=3987942396,3523296417
+dimwishlist:item=2553380021&perks=3987942396,3218042543
+
+
+// Psychopomp -  Psychopomp (god-pve)
+//notes: Reload MW tags:god-pve
+dimwishlist:item=2553380021&perks=691659142,3523296417
+dimwishlist:item=2553380021&perks=691659142,3218042543
+dimwishlist:item=2553380021&perks=3987942396,3523296417
+dimwishlist:item=2553380021&perks=3987942396,3218042543
+
+
+// Afterlight (Adept) - Afterlight (Adept) (pve)
+//notes: Reload MW tags:pve
+dimwishlist:item=3228630258&perks=1556840489,2048641572
+
+
+// Afterlight - Afterlight (pve)
+//notes: Reload MW tags:pve
+dimwishlist:item=3228630258&perks=1556840489,2048641572
+
+
+// Adamantite (Adept) - Adamantite (Adept) (pve)
+//notes: Reload MW
+dimwishlist:item=3229982889&perks=692399809,4104185692
+dimwishlist:item=3229982889&perks=692399809,960997401
+dimwishlist:item=3229982889&perks=923806249,4104185692
+dimwishlist:item=3229982889&perks=923806249,960997401
+
+
+// Adamantite - Adamantite (pve)
+//notes: Reload MW
+dimwishlist:item=3229982889&perks=692399809,4104185692
+dimwishlist:item=3229982889&perks=692399809,960997401
+dimwishlist:item=3229982889&perks=923806249,4104185692
+dimwishlist:item=3229982889&perks=923806249,960997401
+
+
+// Mirror Imago (Adept) - Mirror Imago (Adept) (pvp)
+//notes: Range MW tags:pvp
+dimwishlist:item=3234363830&perks=202670084,3142289711,3938834702,31345821
+dimwishlist:item=3234363830&perks=202670084,3142289711,3938834702,365154968
+dimwishlist:item=3234363830&perks=202670084,3142289711,3643424744,31345821
+dimwishlist:item=3234363830&perks=202670084,3142289711,3643424744,365154968
+
+
+// Mirror Imago - Mirror Imago (pvp)
+//notes: Range MW tags:pvp
+dimwishlist:item=3234363830&perks=202670084,3142289711,3938834702,31345821
+dimwishlist:item=3234363830&perks=202670084,3142289711,3938834702,365154968
+dimwishlist:item=3234363830&perks=202670084,3142289711,3643424744,31345821
+dimwishlist:item=3234363830&perks=202670084,3142289711,3643424744,365154968
+
+
+// Peacebond - Peacebond (pvp)
+//notes: Range MW tags:pvp
+dimwishlist:item=3437370193&perks=202670084,3142289711,2387244414,460017080,3989629871
