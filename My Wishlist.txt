@@ -282,11 +282,6 @@ dimwishlist:item=4077588826&perks=3250034553,3142289711,3038247973,3081867624
 dimwishlist:item=4077588826&perks=3250034553,3142289711,3511092054,3081867624
 
 
-// The Palindrome (Adept) -  The Palindrome (Adept) (god-pvp)
-//notes: Stability MW tags:god-pvp
-dimwishlist:item=4077588826&perks=1482024992,3142289711,3038247973,47981717,1050127423
-
-
 // Abyssal Edge -  Abyssal Edge (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=547165496&perks=269888150,2030760728,3201496230
